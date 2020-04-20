@@ -1,0 +1,1 @@
+This is training folder for Chris to learn Git
