@@ -1,0 +1,7 @@
+Goals for using SourceTree :
+- To help track changes on Git repository easier, by making a visualization on git branches and commits
+- Able to use gitflow workflow in SourceTree
+- Simplify commit, push, fetch, pull activities inside git repository
+
+Future :
+- Able to make better use of SourceTree
